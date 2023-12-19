@@ -1,0 +1,13 @@
+vendor
+.env
+.env-example
+composer.lock
+index.php
+/helpers/
+examples.php
+manual_test.php
+prepros.config
+dbconfig.php
+ReportsDefinitions/
+exportedReports/
+test.http
